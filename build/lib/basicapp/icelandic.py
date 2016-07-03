@@ -1,7 +1,8 @@
 # coding=utf-8
+from markdown import markdown
 
 def beer():
-    return (u'Má ég vinsamlegast fá bjór?')
+    return markdown(u'Má ég vinsamlegast fá bjór?')
 
 def reading():
-    return (u'Ég er að lesa.')
+    return markdown(u'Ég er að lesa.')

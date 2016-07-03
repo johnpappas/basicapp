@@ -21,4 +21,8 @@ setup(name='basicapp',
       ],
       test_suite='nose.collector',
       tests_require=['nose', 'nose-cover3'],
+      scripts=['bin/german-joke'],
+      entry_points={
+            'console_scripts': ['icelandic-beer=basicapp.command_line:main'],
+      },
       zip_safe=False)

@@ -1,0 +1,5 @@
+#!/Users/emptiness/.virtualenvs/basicapp/bin/python
+
+import basicapp
+
+print basicapp.joke()
