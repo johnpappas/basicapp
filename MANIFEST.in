@@ -1,0 +1,4 @@
+include README.rst
+include docs/*.txt
+include basicapp/data.json
+include basicapp/data.xml
