@@ -1,6 +1,20 @@
 Basicapp
 --------
 
+Always best to install using mkvirtualenv.
+
+Then 'pip install -r requirements.txt' and, finally, 'pip setup.py install'.
+
+After this, you can do the following....
+
+2 command line utils available:
+    >>> a) icelandic-beer
+    >>> b) german-joke
+
+Unit tests run by either of the following ways:
+    >>> a) nosetests
+    >>> b) pip setup.py test
+
 To use (with caution), simply do::
 
     >>> import basicapp
