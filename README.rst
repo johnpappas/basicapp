@@ -1,6 +1,9 @@
 Basicapp
 --------
 
+##  HOW-TO URL:  http://python-packaging.readthedocs.io/en/latest/index.html
+
+
 Always best to install using mkvirtualenv.
 
 Then 'pip install -r requirements.txt' and, finally, 'pip setup.py install'.

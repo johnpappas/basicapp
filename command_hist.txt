@@ -1,0 +1,99 @@
+  254  mkdir basicapp
+  255  cd basicapp/
+  259  mkdir basicapp
+  260  cd basicapp/
+  270  cd basicapp/
+  271  mkvirtualenv basicapp 
+  308  git remote add origin https://github.com/johnpappas/basicapp.git
+  338  cd basicapp
+  507  cd basicapp/
+  509  history | grep -i basic
+  516  history | grep -i basic > command_hist.txt 
+   18  pip list 
+  111  pip list
+  112  pip freeze > requirements.txt
+  119  pip install nose
+  194  pip freeze
+  195  pip freeze > requirements.txt
+  272  pip install setuptools
+  273  pip install --upgrade pip
+  274  pip --version
+  275  pip install setup
+  289  pip install markdown
+  295  pip install nose
+  297  pip list
+  298  pip install nose-cover3
+  299  pip list
+  359  pip freeze
+  360  pip freeze > requirements.txt
+  373  pip freeze
+  510  history | grep -i pip
+  517  history | grep -i pip >> command_hist.txt 
+   50  mkvirtualenv funniest/
+  206  mkvirtualenv flask-login-openshift-quickstart 
+  271  mkvirtualenv basicapp 
+  511  history |  grep mkvir
+  518  history |  grep mkvir >> command_hist.txt 
+   26  deactivate 
+  232  deactivate 
+  513  history | grep activa 
+  520  history | grep activa  >> command_hist.txt 
+   42  python __init__.py 
+   48  python setup.py install
+   53  python setup.py install
+   57  python joke.py 
+   65  python joke.py 
+   67  python joke.py 
+   72  python joke.py 
+   73  python setup.py install
+   74  python joke.py 
+   76  python joke.py 
+   77  python setup.py install
+   78  python joke.py 
+   85  python joke.py 
+   94  python joke.py 
+   95  python setup.py install
+   96  python joke.py 
+  105  python joke.py 
+  110  python joke.py 
+  114  python setup.py develop
+  115  python joke.py 
+  123  python setup.py tests
+  124  python setup.py test
+  130  python setup.py develop
+  132  python setup.py tests
+  133  python setup.py test
+  136  python joke.py 
+  159  python setup.py test
+  241  cd ../workspace_python/
+  278  python --version
+  279  python setup.py install
+  280  python setup.py develop
+  281  python
+  284  python setup.py install
+  285  python setup.py develop
+  286  python
+  290  python
+  291  python setup.py develop
+  292  python
+  293  python setup.py develop
+  294  python
+  302  python setup.py develop
+  303  python setup.py tests
+  304  python setup.py test
+  325  python
+  328  which python
+  331  python setup.py install
+  333  python setup.py install
+  335  python setup.py install
+  340  python
+  342  python
+  343  python setup.py install
+  344  python setup.py install
+  366  python setup.py test
+  466  ls -ltr | grep -i python
+  470  ls -ltr | grep -i python
+  471  ls -ltr | grep -i python | wc -l
+  505  cd ../workspace_python/
+  521  history | grep python
+  522  history | grep python >> command_hist.txt 
