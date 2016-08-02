@@ -1,6 +1,7 @@
 Basicapp
 --------
 
+##  GIT URL:     https://github.com/johnpappas/basicapp.git
 ##  HOW-TO URL:  http://python-packaging.readthedocs.io/en/latest/index.html
 
 
