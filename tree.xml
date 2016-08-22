@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name=".">
+    <file name="MANIFEST.in"/>
+    <file name="Markdown-2.6.6-py2.7.egg"/>
+    <file name="README.rst"/>
+    <directory name="basicapp">
+      <file name="__init__.py"/>
+      <file name="command_line.py"/>
+      <file name="data.json"/>
+      <file name="data.xml"/>
+      <file name="german.py"/>
+      <file name="icelandic.py"/>
+      <directory name="tests">
+        <file name="__init__.py"/>
+        <file name="test_german_joke.py"/>
+        <file name="test_icelandic_reading_statements.py"/>
+      </directory>
+    </directory>
+    <directory name="basicapp.egg-info">
+      <file name="PKG-INFO"/>
+      <file name="SOURCES.txt"/>
+      <file name="dependency_links.txt"/>
+      <file name="entry_points.txt"/>
+      <file name="not-zip-safe"/>
+      <file name="requires.txt"/>
+      <file name="top_level.txt"/>
+    </directory>
+    <directory name="bin">
+      <file name="german-joke"/>
+    </directory>
+    <directory name="build">
+      <directory name="bdist.macosx-10.11-intel"></directory>
+      <directory name="lib">
+        <directory name="basicapp">
+          <file name="__init__.py"/>
+          <file name="command_line.py"/>
+          <file name="german.py"/>
+          <file name="icelandic.py"/>
+        </directory>
+      </directory>
+      <directory name="scripts-2.7">
+        <file name="german-joke"/>
+      </directory>
+    </directory>
+    <file name="command_hist.txt"/>
+    <directory name="dist">
+      <file name="basicapp-0.1-py2.7.egg"/>
+    </directory>
+    <directory name="docs"></directory>
+    <file name="example_runs.txt"/>
+    <file name="requirements.txt"/>
+    <file name="setup.py"/>
+    <file name="tree.json"/>
+    <file name="tree.xml"/>
+  </directory>
+  <report>
+    <directories>11</directories>
+    <files>39</files>
+  </report>
+</tree>
