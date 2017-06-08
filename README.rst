@@ -3,11 +3,17 @@ Basicapp
 
 Always best to install using mkvirtualenv.
 
-Then 'pip install -r requirements.txt' and, finally, 'pip setup.py install'.
 
-After this, you can do the following....
+You'll likely clone at the command line using git clone <project_url>.
 
-2 command line utils available:
+When cloning finishes, cd into the project root directory `basicapp' and do the following:
+    `python setup.py install`
+    `pip install -r requirements.txt`
+
+After this, you should be able to cd one more level down to `basicapp/basicapp` and execute one of the command line utils below.
+
+
+Available command line utils:
     >>> a) icelandic-beer
     >>> b) german-joke
 
